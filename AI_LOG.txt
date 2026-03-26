@@ -1,0 +1,5 @@
+AI LOG
+
+1. Prompt: Write Python asyncio code using aiohttp for parallel API calls
+2. Prompt: Handle errors in asyncio without stopping execution
+3. Prompt: Generate personalized apology messages based on weather
